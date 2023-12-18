@@ -39,10 +39,15 @@
 
 - How do prices of listings vary by location?/What localities in Countries are rated highly by guests? 
 
-*Portugal and Spain has the low rentals and high rating and all property type by varying prices to compared to the other countries. 
-*Prices are higher for rentals closer to city hotspots. 
-*Rentals that are rated highly on the location by the host also have higher prices ex.US.
-*Apartment Type properties are having demand
-*Shared room type property is least prefered
-*China and Portugal having high availability with higher prices
+-*Portugal and Spain has the low rentals and high rating and all property type by varying prices to compared to the other countries.
+ 
+-*Prices are higher for rentals closer to city hotspots. 
+
+-*Rentals that are rated highly on the location by the host also have higher prices ex.US.
+
+-*Apartment Type properties are having demand
+
+-*Shared room type property is least prefered
+
+-*China and Portugal having high availability with higher prices
 
