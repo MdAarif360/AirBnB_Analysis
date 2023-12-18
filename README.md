@@ -39,7 +39,7 @@
 
 - How do prices of listings vary by location?/What localities in Countries are rated highly by guests? 
 
-*Portugal and Spain has the low rentals and high rating and all property type by varying prices to compared to the other countries.
+**Portugal and Spain has the low rentals and high rating and all property type by varying prices to compared to the other countries.
  
 -*Prices are higher for rentals closer to city hotspots. 
 
