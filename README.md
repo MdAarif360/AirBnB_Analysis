@@ -29,5 +29,5 @@
 
 ### Dashboard Pic
 
-![image](https://github.com/MdAarif360/AirBnB_Analysis/img/Dashboard.png)
+![image](https://github.com/MdAarif360/AirBnB_Analysis/blob/main/img/Dashboard.png)
 
